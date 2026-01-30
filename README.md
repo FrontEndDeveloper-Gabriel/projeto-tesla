@@ -4,7 +4,7 @@
 
 ## 📖 About
 ```ascii
-> My third website project: a Tesla website with a background promotional video.
+> A Tesla website with a background promotional video.
   I hope you like it!
 ```
 
